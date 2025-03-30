@@ -1,6 +1,6 @@
 ## Hi there 👋
-## At the moment I have a higher technical education in the field of industrial electronics
-## I have no work experience, but I really want to get it. I am studying the programming languages ​​Python and C++
+ At the moment I have a higher technical education in the field of industrial electronics
+ I have no work experience, but I really want to get it. I am studying the programming languages ​​Python and C++
 <!--
 **NeverbeToxin/NeverbeToxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
